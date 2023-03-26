@@ -1,4 +1,4 @@
-// Package main ZeroBot-Plugin main file
+// Package main ZeroBot-Plugin main filee
 package main
 
 import (
